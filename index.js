@@ -1,3 +1,3 @@
-const id = 'index';
+const id = 'index'
 
-console.log(id);
+console.log(id)
